@@ -631,11 +631,13 @@ $$\boxed{\text{Identity} = \text{The sum of what you refuse to process}}$$
 
 We can now write the final equation for a Meaningful Life (or Civilization):
 
-$$\text{Legacy} = \int_{t=0}^{T} \text{Compress}\left( \text{Input}(t) - \text{Noise}(t) \right) dt$$
+$$
+\text{Legacy} = \int_{t=0}^{T} \text{Compress}\left( \text{Input}(t) - \text{Noise}(t) \right) dt
+$$
 
 **Subject to the constraints:**
 
-1. **Thermodynamic Limit**: $\left| \frac{d^2E}{dt^2} \right| < \text{Structural Breakpoint}$ (Don't break the machine)
+1. **Thermodynamic Limit**: $\left \frac{d^2E}{dt^2} \right| < \text{Structural Breakpoint}$ (Don't break the machine)
 2. **Informational Limit**: $\text{Entropy}(\text{Latent}) < \text{Channel Capacity}$ (Don't flood the mind)
 
 ---
